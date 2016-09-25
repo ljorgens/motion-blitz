@@ -33,7 +33,7 @@ module Motion
       end
 
       def loading(mask = :none)
-        show('Loading...', mask)
+        show('LOADING...', mask)
       end
 
       def dismiss
